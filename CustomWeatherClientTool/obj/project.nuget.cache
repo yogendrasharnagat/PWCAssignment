@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rdPm8ZcUGWGCv7IQsNxZweBkuX98VZueBWBpba0Q4baBRlxDdjZhrtpBGnmBASN5Klsn+QuqnIwk6bdXZAB3jg==",
+  "success": true,
+  "projectFilePath": "D:\\Yogendra Sharnagat\\PWC Assignment\\CustomWeatherClientTool\\CustomWeatherClientTool\\CustomWeatherClientTool.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\IBZ\\.nuget\\packages\\restsharp\\109.0.1\\restsharp.109.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
